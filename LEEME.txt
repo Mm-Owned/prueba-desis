@@ -1,0 +1,17 @@
+La carpeta con nombre SQL que se encuentra en la raíz contiene la Base de Datos en formato .sql para que la puedan importar.
+
+El formulario se creo con PHP, AJAX, JQUERY Y SQL con una estructura MVC, el código tiene comentarios para simplificar la comprensión de sí mismo y cumple con los requerimientos solicitados.
+
+El formulario lo levante con Wampserver64 ya que este incluye apache para el PHP y base de datos MySQL.
+Pasos para instalar la instancia y poder levantar el formulario de la misma forma que yo
+Paso 1: Descargar e instalar Wampserver64 
+Paso 2: una vez instalado Wampserver64 dirigirse a la carpeta donde se instalo 
+Paso 3: ubicar la carpeta “www”, por default esta ubicada en: C:\wamp64\www
+Paso 4: una vez dentro de la carpeta “www”, copiar y pegar la carpeta “prueba-desis” que descargan desde la URL publica de GIT: 
+Paso 5: iniciar el programa Wamp64, dirigirse al browser y escribir la siguiente URL para ver el formulario: http://localhost/prueba-desis/index.php
+
+
+VERSION PHP 8.0.26
+VERSION MYSQL 8.0.31
+VERSION PHPMYADMIN 5.2.0
+
