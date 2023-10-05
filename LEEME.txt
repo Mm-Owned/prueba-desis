@@ -7,7 +7,7 @@ Pasos para instalar la instancia y poder levantar el formulario de la misma form
 Paso 1: Descargar e instalar Wampserver64 
 Paso 2: una vez instalado Wampserver64 dirigirse a la carpeta donde se instalo 
 Paso 3: ubicar la carpeta “www”, por default esta ubicada en: C:\wamp64\www
-Paso 4: una vez dentro de la carpeta “www”, copiar y pegar la carpeta “prueba-desis” que descargan desde la URL publica de GIT: https://github.com/Mm-Owned/prueba-desis.git
+Paso 4: una vez dentro de la carpeta “www”, copiar y pegar la carpeta “prueba-desis” que descargan desde la URL publica de GIT: https://github.com/Mm-Owned/prueba-desis.git 
 Paso 5: iniciar el programa Wamp64, dirigirse al browser y escribir la siguiente URL para ver el formulario: http://localhost/prueba-desis/index.php
 
 
